@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a Capstone project, creating a Visual Compiler for EPI-Use Labs<br>🌱 I am currently studying a Bachelor of Science in Information and Knowledge Systems. Specializing in Software Development<br>💬 Ask me about Web Development, API's and JS <br>⚡ Fun fact: Ariana Grande said: "God is a woman", and she is correct<br> 📷 Naven Photography https://naven-photography.webnode.co.uk/ 
+🔭 I'm currently working on a Capstone project, creating a Visual Compiler for EPI-Use Labs<br>🌱 I am currently studying a Bachelor of Science in Information and Knowledge Systems. Specializing in Software Development<br>💬 Ask me about Web Development, API's and JS <br>⚡ Fun fact: Ariana Grande said: "God is a woman", and she is correct<br> 📷 Photo taken by Naven Photography https://naven-photography.webnode.co.uk/ 
 
 
 ## 🌐 Socials:
